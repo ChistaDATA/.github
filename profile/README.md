@@ -3,22 +3,6 @@
 ### Introduction
 [TBD]
 
-### PODs Project Management
-
-Below you will find the list of PODs and the links to their respective projects.
-
-#### UI/UX
-[TBD]
-
-#### Core Platform
-[Project Board Q1'24](https://github.com/orgs/ChistaDATA/projects/12)
-
-#### Data Matrix
-[TBD]
-
-#### DevOps
-[Project Board](https://github.com/orgs/ChistaDATA/projects/5)
-
 <!--
 
 **Here are some ideas to get you started:**
